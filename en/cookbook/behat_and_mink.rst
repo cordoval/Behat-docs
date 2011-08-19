@@ -241,7 +241,7 @@ All you need to do is install Sahi:
    .. code-block:: bash
 
         cd $YOUR_PATH_TO_SAHI/bin
-        ./sahi.sh
+        ./start_sahi.sh
 
 That's it. Now you should create specific scenario in order it to be runnable
 through Sahi:
